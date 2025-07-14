@@ -7,19 +7,6 @@ A simple, responsive personal website built with **HTML** and **CSS only**, base
 
 ---
 
-## 📁 Project Structure
-
-My_World_Template/
-   css/
-      style.css -> Full uncompressed CSS
-      style.min.css -> Minified CSS (used in the website)
-      ...
-   images/ -> Optimized and compressed image assests
-   webfonts/ -> Font Awesome 5 files
-   index.html
-   
----
-
 ## 📱 Features
 
 - ✅ Fully responsive layout (mobile-first)

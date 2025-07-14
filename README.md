@@ -10,12 +10,13 @@ A simple, responsive personal website built with **HTML** and **CSS only**, base
 ## 📁 Project Structure
 
 My_World_Template/
-├── css/
-│ ├── style.css → Full uncompressed CSS (for editing)
-│ └── style.min.css → Minified CSS (used in the website)
-├── images/ → Optimized and compressed image assets
-├── webfonts/ → Font Awesome 5 files
-└── index.html → Main HTML file
+   css/
+      style.css → Full uncompressed CSS (for editing)
+      style.min.css → Minified CSS (used in the website)
+      ...
+   images/ → Optimized and compressed image assets
+   webfonts/ → Font Awesome 5 files
+   index.html → Main HTML file
 
 
 ---
